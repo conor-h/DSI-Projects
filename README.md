@@ -33,6 +33,15 @@ I collected salary information on data science jobs in a variety of markets in t
 _key words:_
 Web Scraping | Data Cleaning | Supervised Machine Learning - Classification model| Logistic Regression | Hyperparameter optimization
 
+4. **Project 4 - How lucky were you to survive the Titanic tragedy?**
+
+The aim of the project was to predict whether a passenger on the Titanic would survive or not, using different classification techniques.
+
+The project used the well known Titanic dataset.
+
+key words:
+PostgreSQL | Pipeline | Feature selections | Supervised Machine Learning - Classification model| Logistic Regression | KNeighbours | Model Selection | Random Forest | Bagging
+
 **Capstone - Movie Recommender System**
 
 The aim of the project was to explore different methodologies to build and implement a simple recommender system that would recommend movies based on information from the MovieLens dataset. This dataset was updated with data scraped from the corresponding IMDb pages for each movie. The recommendation engine was based on the cleaned dataset and the accuracy of the predicted ratings was evaluted.
